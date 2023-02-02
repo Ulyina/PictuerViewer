@@ -1,0 +1,11 @@
+C:\Users\student\Downloads\PictureViewer-master\bin\Debug\PictureViewer.exe.config
+C:\Users\student\Downloads\PictureViewer-master\bin\Debug\PictureViewer.exe
+C:\Users\student\Downloads\PictureViewer-master\bin\Debug\PictureViewer.pdb
+C:\Users\student\Downloads\PictureViewer-master\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\PictureViewer-master\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\PictureViewer-master\obj\Debug\PictureViewer.Form1.resources
+C:\Users\student\Downloads\PictureViewer-master\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\student\Downloads\PictureViewer-master\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\student\Downloads\PictureViewer-master\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\PictureViewer-master\obj\Debug\PictureViewer.exe
+C:\Users\student\Downloads\PictureViewer-master\obj\Debug\PictureViewer.pdb
